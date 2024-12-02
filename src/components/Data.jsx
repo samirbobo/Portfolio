@@ -36,7 +36,7 @@ export const homeProjects = [
     id: 3,
     name: "E commerce",
     category: "Website",
-    site: "https://samirbobo.github.io/react-commerce/",
+    site: "https://main-e-commerce2.netlify.app/",
     image: eCommerceImage,
   },
   // javascript website
@@ -49,7 +49,7 @@ export const homeProjects = [
   },
   {
     id: 5,
-    name: "Special Desing",
+    name: "Special Design",
     category: "Website",
     site: "https://special-desing.netlify.app",
     image: specialDesignImage,
@@ -60,7 +60,7 @@ export const homeProjects = [
     category: "Website",
     site: "https://elanany-weather.netlify.app",
     image: weatherAppImage,
-  }
+  },
 ];
 
 export const projects = [
