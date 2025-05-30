@@ -5,7 +5,6 @@ import Landing from "../components/Landing";
 import Projects from "../components/Projects";
 import Service from "../components/Service";
 
-
 function Home() {
   return (
     <>

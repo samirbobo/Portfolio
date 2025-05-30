@@ -1,3 +1,4 @@
+import aflamkImage from "../images/Aflamk-project.png";
 import vanLiveImage from "../images/van-live.png";
 import dashboardImage from "../images/dashboard.png";
 import eCommerceImage from "../images/work-1.png";
@@ -20,33 +21,33 @@ export const homeProjects = [
   // react websites
   {
     id: 1,
+    name: "Aflamk",
+    category: "Website",
+    site: "https://aflamk.netlify.app/",
+    image: aflamkImage,
+  },
+  {
+    id: 2,
     name: "Van Life",
     category: "Website",
     site: "https://elanany-van-life.netlify.app/",
     image: vanLiveImage,
   },
   {
-    id: 2,
+    id: 3,
     name: "React Dashboard",
     category: "Website",
     site: "https://dashboard-elanany.netlify.app/",
     image: dashboardImage,
   },
   {
-    id: 3,
+    id: 4,
     name: "E commerce",
     category: "Website",
     site: "https://main-e-commerce2.netlify.app/",
     image: eCommerceImage,
   },
   // javascript website
-  {
-    id: 4,
-    name: "Comfy Store",
-    category: "Website",
-    site: "https://project-store1.netlify.app/",
-    image: comfyStoreImage,
-  },
   {
     id: 5,
     name: "Special Design",
@@ -69,55 +70,63 @@ export const projects = [
 
   {
     id: 7,
+    name: "Comfy Store",
+    category: "Website",
+    site: "https://project-store1.netlify.app/",
+    image: comfyStoreImage,
+  },
+
+  {
+    id: 8,
     name: "MUI Project",
     category: "Website",
     site: "https://pro-mui.netlify.app",
     image: MUIProjectImage,
   },
   {
-    id: 8,
+    id: 9,
     name: "Nike",
     category: "Website",
     site: "https://elanany-nike.netlify.app",
     image: nikeImage,
   },
   {
-    id: 9,
+    id: 10,
     name: "GYM",
     category: "Website",
     site: "https://elanany-gym.netlify.app",
     image: gymImage,
   },
   {
-    id: 10,
+    id: 11,
     name: "Wikipedia Search",
     category: "Website",
     site: "https://wikipedia-search1.netlify.app/",
     image: work4,
   },
   {
-    id: 11,
+    id: 12,
     name: "Online Editor",
     category: "Website",
     site: "https://code-editor12s.netlify.app/",
     image: work5,
   },
   {
-    id: 12,
+    id: 13,
     name: "C# Tutorial",
     category: "Website",
     site: "https://c-tutorial.netlify.app/",
     image: work7,
   },
   {
-    id: 13,
+    id: 14,
     name: "pagination",
     category: "Website",
     site: "https://pagination12.netlify.app/",
     image: work8,
   },
   {
-    id: 13,
+    id: 15,
     name: "Excel Sheet",
     category: "Website",
     site: "https://exquisite-pegasus-8211c7.netlify.app/",
@@ -125,25 +134,24 @@ export const projects = [
   },
   // html and css website
   {
-    id: 14,
+    id: 16,
     name: "Elanany Web",
     category: "Website",
     site: "https://samirbobo.github.io/Elanany/",
-    image: work12
+    image: work12,
   },
   {
-    id: 15,
+    id: 17,
     name: "Dashboard Web",
     category: "Website",
     site: "https://samirbobo.github.io/Dashboard-Web/",
-    image: work11
+    image: work11,
   },
   {
-    id: 16,
+    id: 18,
     name: "Bondi Web",
     category: "Website",
     site: "https://samirbobo.github.io/Bondi-Web/",
-    image: work10
+    image: work10,
   },
 ];
-

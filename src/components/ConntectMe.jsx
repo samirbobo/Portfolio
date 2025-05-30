@@ -36,7 +36,7 @@ function ContactUs() {
               <ImGithub />
             </a>
             <a
-              href="https:www.linkedin.com/in/samir-elanany"
+              href="https://www.linkedin.com/in/samir-elanany"
               target="_blank"
               rel="noreferrer"
               className="linked"
